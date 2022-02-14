@@ -18,6 +18,10 @@ vdsl_연구실_식당_선택지 🍖🍕🌭🥩🥓🥟🍣🍱🍡🍢🍥
 - 치즈를 사랑한 찜닭 [[배민 링크](https://baemin.me/Hb-3_Oe7V)]
   - 치즈까망찜닭(Large=4인분)-보통맵기 👍
 
+- 버거리
+  - 비프쉬림프버거 👍
+
 - 우리할매떡볶이 [[쿠팡 링크](https://web.coupangeats.com/share?storeId=338915&dishId&key=c744162c-5a44-4dd0-882d-5be9a513f959)]
   - 가래떡 떡볶이 👍
   - 통오징어 튀김 👍
+
