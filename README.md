@@ -15,6 +15,8 @@
 |---|---|---|
 |<img src="https://user-images.githubusercontent.com/59610723/154390010-c9fbfdc7-0a65-4b0d-9f2e-da570a6c9d5e.png" width="150" height="150"/>|<img src="https://user-images.githubusercontent.com/59610723/154390086-e505ac9c-d896-4347-9f40-90e12690d0a9.png" width="150" height="150"/>|<img src="https://user-images.githubusercontent.com/59610723/154390142-6ef7b6a3-6188-45e9-bf0a-69a3996b9a39.png" width="150" height="150"/>|
 
+[![Gmail Badge](https://img.shields.io/badge/beamin-1769FF?style=flat&logo=Beats&logoColor=white)](https://baemin.me/_pZXXSOAN)
+
 ------------------------------------------
 - 마포정육식당 [[배민 링크](https://baemin.me/GMJBkNajb)]
   ```
