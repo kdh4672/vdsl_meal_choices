@@ -8,7 +8,7 @@ vdsl_연구실_식당_선택지 🍖🍕🌭🥩🥓🥟🍣🍱🍡🍢🍥
 - 슬로우 캘리 [[배민 링크](https://baemin.me/_pZXXSOAN)]
   - 하와이안 갈릭 쉬림프 👍
   - 스파이시 튜나 👍
-  - 클레식 튜나 
+  - 클래식 튜나 
 
 - 마포정육식당 [[배민 링크](https://baemin.me/GMJBkNajb)]
   - 제육볶음 👍👍 (개혜자)
@@ -23,7 +23,24 @@ vdsl_연구실_식당_선택지 🍖🍕🌭🥩🥓🥟🍣🍱🍡🍢🍥
   - 버거리버거
   - 더블클래식치즈버거
 
+- 우리할매떡볶이 [[쿠팡 링크](https://web.coupangeats.com/share?storeId=338915&dishId&key=c744162c-5a44-4dd0-882d-5be9a513f959)]
+  - 가래떡 떡볶이 👍
+  - 통오징어 튀김 👍
+
+- 열정국밥 [[쿠팡 링크](https://web.coupangeats.com/share?storeId=237612&dishId&key=cc39a319-e8e3-493d-a361-dcf9698eaa2b)]
+  - 야들야들돼지국밥 
+  - 토종순대국밥
+  - 뽈살코기국밥
+
+- 스윗 사워 솔트 [[쿠팡 링크](https://web.coupangeats.com/share?storeId=280672&dishId&key=218d875f-e352-4fcb-87f8-a08195b605da)]
+  - 잠봉뵈흐
+  - 연어그라블라스 샌드위치
+  - 생 참치 빵바냐 니스와즈
+  - 수제 베이컨 토마토 파스타
+  - 시나몬 브리오슈
+
 - 홍대쌀국수 [[배민 링크](https://baemin.me/-rl8rAT)]
   - 쇠고기쌀국수
   - 볶음쌀국수 👍
   - 쇠고기세트 (쇠고기쌀국수 + 새우튀김 3피스)
+
