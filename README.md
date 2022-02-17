@@ -4,6 +4,8 @@
 <img src = "https://user-images.githubusercontent.com/54311546/153786512-10583a37-52d0-4be3-a342-0adceb79d063.jpg" width="width 480%" height="270">
 
 ## 식당 & 메뉴
+- 음식 고르기  
+[![Gmail Badge](https://img.shields.io/badge/-1769FF?style=flat&logo=Beats&logoColor=white)](http://163.239.98.112:8088/)
 
 <details>
 <summary> 슬로우 캘리 </summary>
