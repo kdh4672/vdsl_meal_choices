@@ -61,7 +61,7 @@
   통오징어 튀김 👍
   ```
 ![AUR votes](https://img.shields.io/badge/Rating-4.0%2F5-green)
-|비프쉬림프 버거|버거리버거|
+|가래떡 떡볶이|통오징어 튀김|
 |---|---|
 |<img src="https://user-images.githubusercontent.com/59610723/154390651-ead21c3d-40b6-4a99-aba3-9034c3c82872.png" width="150" height="150"/>|<img src="https://user-images.githubusercontent.com/59610723/154390688-50c36375-4524-481f-a941-b5f5af910931.png" width="150" height="150"/>|
 
