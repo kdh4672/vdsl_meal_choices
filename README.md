@@ -5,7 +5,6 @@
 
 ## 식당 & 메뉴
 - 음식 고르기  
-[![Gmail Badge](https://img.shields.io/badge/-1769FF?style=flat&logo=Beats&logoColor=white)](http://163.239.98.112:8088/)
 
 <details>
 <summary> 슬로우 캘리 </summary>
