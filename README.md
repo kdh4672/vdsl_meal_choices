@@ -38,7 +38,7 @@
   차돌된장찌개 👍👍👍👍👍👍👍 <양`s pick>
   ```
 ![AUR votes](https://img.shields.io/badge/Rating-4.0%2F5-green)
-|제육볶음|회덮밥|차돌된장찌개|
+|제육볶음|육회덮밥|차돌된장찌개|
 |---|---|---|
 |<img src="https://user-images.githubusercontent.com/59610723/154390246-4138ab86-67b8-408d-ab2f-a13b5e775e13.png" width="150" height="150"/>|<img src="https://user-images.githubusercontent.com/59610723/154390316-b1591847-db2d-49a5-a1bc-a34d15864576.png" width="150" height="150"/>|<img src="https://user-images.githubusercontent.com/59610723/154390364-665bba76-b4dd-4822-becc-228785254f87.png" width="150" height="150"/>|
   
