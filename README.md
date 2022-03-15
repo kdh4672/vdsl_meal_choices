@@ -55,6 +55,7 @@
   
 [![Gmail Badge](https://img.shields.io/badge/beamin-1769FF?style=flat&logo=Beats&logoColor=white)](https://baemin.me/Hb-3_Oe7V)
   ```
+  ***인원수 당 공기밥 반드시 시킬 것***
   치즈까망찜닭(Large=4인분)-보통맵기 👍
   ```
 ![AUR votes](https://img.shields.io/badge/Rating-4.0%2F5-green)
